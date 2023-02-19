@@ -2,4 +2,5 @@
 *.log
 debug/
 dist/
+out/
 node_modules/
