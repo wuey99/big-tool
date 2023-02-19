@@ -1,0 +1,52 @@
+<XMap>
+	<XLayers>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="false" submapWidth="512" submapCols="64" layer="0" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj0" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="true" submapWidth="512" submapCols="64" layer="1" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer0" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="false" submapWidth="512" submapCols="64" layer="2" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj1" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="true" submapWidth="512" submapCols="64" layer="3" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer1" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="false" submapWidth="512" submapCols="64" layer="4" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj2" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="true" submapWidth="512" submapCols="64" layer="5" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer2" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="false" submapWidth="512" submapCols="64" layer="6" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj3" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="0" grid="true" submapWidth="512" submapCols="64" layer="7" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer3" vw="755" currID="0" vy="0">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+	</XLayers>
+</XMap>

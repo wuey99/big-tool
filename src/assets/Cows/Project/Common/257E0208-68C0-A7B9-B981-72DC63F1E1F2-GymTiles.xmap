@@ -1,0 +1,74 @@
+<XMap>
+	<XLayers>
+		<XLayer grid="false" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="obj0" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="0" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="true" submapRows="64" currID="117" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="layer0" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="1" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames>
+				<imageClassName name="Tileset002:Tileset002"/>
+			</imageClassNames>
+			<classNames>
+				<className index="0" name="" count="0"/>
+				<className index="1" name="Tileset002:Tileset002" count="40"/>
+				<className index="2" name="" count="0"/>
+			</classNames>
+			<items/>
+			<XSubmaps>
+				<XSubmap col="1" row="1">
+					<Tiles>
+						b002b003b004b005XXXXb008b009b010XXXXXXXXb006b007XXXXb012b013b014XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXb017b018XXXXXXXXb019XXXXb021b022XXXXXXXXXXXXXXXXb020XXXXb023b024b016XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+					</Tiles>
+				</XSubmap>
+				<XSubmap col="2" row="1">
+					<Tiles>
+						b011XXXXXXXXXXXXXXXXXXXXXXXXXXXXb015XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXb025b026XXXXb029b030XXXXXXXXXXXXb027b028XXXXb031b032XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXb033b034XXXXXXXXXXXXXXXXXXXXXXXXb049b050XXXX
+					</Tiles>
+				</XSubmap>
+				<XSubmap col="2" row="2">
+					<Tiles>
+						XXXXXXXXXXXXb039XXXXb065b066XXXXXXXXXXXXXXXXXXXXXXXXb081b082XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+					</Tiles>
+				</XSubmap>
+			</XSubmaps>
+		</XLayer>
+		<XLayer grid="false" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="obj1" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="2" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="true" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="layer1" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="3" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="false" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="obj2" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="4" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="true" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="layer2" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="5" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="false" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="obj3" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="6" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer grid="true" submapRows="64" currID="0" submapCols="64" submapWidth="512" submapHeight="512" vx="272.1522822440717" vw="1311.2633892423366" name="layer3" scale="0.5757805839727195" vh="1029.906211683054" regX="801.9" layer="7" visible="true" regY="784.25" vy="332.41829496818974">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+	</XLayers>
+</XMap>

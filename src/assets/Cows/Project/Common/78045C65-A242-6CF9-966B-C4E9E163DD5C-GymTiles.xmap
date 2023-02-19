@@ -1,0 +1,63 @@
+<XMap>
+	<XLayers>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="false" submapWidth="512" submapCols="64" layer="0" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj0" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="true" submapWidth="512" submapCols="64" layer="1" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer0" vw="755" currID="4" vy="314">
+			<imageClassNames>
+				<imageClassName name="Tileset002:Tileset001"/>
+			</imageClassNames>
+			<classNames>
+				<className index="0" name="" count="0"/>
+				<className index="1" name="Tileset002:Tileset001" count="2"/>
+			</classNames>
+			<items/>
+			<XSubmaps>
+				<XSubmap col="1" row="1">
+					<Tiles>
+						b004XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXb004XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+					</Tiles>
+				</XSubmap>
+			</XSubmaps>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="false" submapWidth="512" submapCols="64" layer="2" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj1" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="true" submapWidth="512" submapCols="64" layer="3" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer1" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="false" submapWidth="512" submapCols="64" layer="4" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj2" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="true" submapWidth="512" submapCols="64" layer="5" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer2" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="false" submapWidth="512" submapCols="64" layer="6" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="obj3" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+		<XLayer submapHeight="512" regY="0" vx="312" grid="true" submapWidth="512" submapCols="64" layer="7" submapRows="64" regX="0" scale="1" vh="593" visible="true" name="layer3" vw="755" currID="0" vy="314">
+			<imageClassNames/>
+			<classNames/>
+			<items/>
+			<XSubmaps/>
+		</XLayer>
+	</XLayers>
+</XMap>
